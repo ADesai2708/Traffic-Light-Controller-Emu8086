@@ -5,7 +5,7 @@ You can copy-paste it directly into GitHub.
 
 ---
 
-# ✅ **README.md (Final Version — No Names)**
+# ✅ **README.md **
 
 ```
 # 🚦 Traffic Light Controller Simulation (8086 Assembly)
